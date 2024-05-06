@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\bin\Debug\net8.0\050624 Student Database Lab.exe
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\bin\Debug\net8.0\050624 Student Database Lab.deps.json
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\bin\Debug\net8.0\050624 Student Database Lab.runtimeconfig.json
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\bin\Debug\net8.0\050624 Student Database Lab.dll
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\bin\Debug\net8.0\050624 Student Database Lab.pdb
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\050624 Student Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\050624 Student Database Lab.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\050624 Student Database Lab.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\050624 Student Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\050624 Student Database Lab.dll
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\refint\050624 Student Database Lab.dll
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\050624 Student Database Lab.pdb
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\050624 Student Database Lab.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\050624 Student Database Lab\050624 Student Database Lab\obj\Debug\net8.0\ref\050624 Student Database Lab.dll
